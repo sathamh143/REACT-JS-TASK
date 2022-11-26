@@ -12,7 +12,7 @@ export default function SwitchesSize() {
       <div className='label' >
          <Switch {...label} defaultChecked sx={{ width:{xs:50,}}}/>
          <Typography variant="h6"style={{marginTop:'5px'}}>Random Choice</Typography>
-         <Button  variant="text" style ={{ marginLeft:'150px'}} sx={{ width:{
+         <Button  variant="text" style ={{ marginLeft:'200px'}} sx={{ width:{
               sm:200,
               xs:250,
               lg:250,

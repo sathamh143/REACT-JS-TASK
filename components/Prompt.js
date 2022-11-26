@@ -34,7 +34,7 @@ export default function DisabledOptions() {
             aria-label="outlined button group">
 
             <Button 
-            style={{color:'black'}}
+            style={{color:'black',border:'1px solid  lightGray'}}
             sx={{  
               width:{
              xs:10,
@@ -43,7 +43,7 @@ export default function DisabledOptions() {
              md :10,
              xl :10,
            } }}>e.g 10</Button>
-            <Button style={{color:'black'}} >%<ArrowDropDownIcon/></Button>   
+            <Button style={{color:'black',border:'1px solid lightGray'}} >%<ArrowDropDownIcon/></Button>   
           </ButtonGroup>   
        </Box>
     </div>

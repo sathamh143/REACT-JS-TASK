@@ -13,27 +13,22 @@
   margin-top: 10px;
 }
 .switch{
-  margin-left: 320px;
+  margin-left: 360px;
   margin-top: 30px;
+  gap: 10px;
   display: flex;
   position: absolute;
-
 }
 .pro{
   display: flex;
   position: absolute;
   margin-top: 130px;
 }
-
-
-
 .add{
   display: flex;
   position: absolute;
  margin:100px;
- margin-left: 570px;
- margin-top: px;
- 
+ margin-left: 570px; 
 }
 .index{
   display: flex;
@@ -45,21 +40,16 @@
     display: flex;
     color: green;
     height: 50vh;
-
-
     position: absolute;
     size: 120px;
   }
 .text{
   display: flex;
   position: absolute;
-  
 }
 .match{
  width: 100%;
- display: flex; 
- 
- 
+ display: flex;
  position: relative;
  
 }
@@ -68,7 +58,6 @@
   gap: 10px;
   top: 20px;
   margin-top: px;
-
   display: flex; 
  }
  .choices{
@@ -87,13 +76,11 @@
   position: absolute;
   display: flex; 
  }
- 
 .left{
   display: flex;
   position: absolute;
   margin-left: 350px;
-  margin-top: 70px;
-
+  margin-top: 60px;
 }
 
 .down{
@@ -103,9 +90,7 @@
   position: absolute;
 }
 .label{
-  
   margin-left: 1px;
- 
   display: flex;
   position: absolute;
 }
@@ -143,15 +128,12 @@
 .lin{
   display: flex;
   position: absolute;
-
   margin-left: 60PX;
- 
 }
 .prompt{
   color: blue;
   margin-left: 50px;
   margin-top: 20px;
-
 }
 .expand{
   display: flex;
@@ -161,7 +143,6 @@
   margin-top: px;
 }
 .math{
-  
   margin-top: 20px;
   margin-left: 300px;
 }
@@ -170,8 +151,7 @@
   width: 100%;
   height: 90vh; 
   display: flex;
-  margin-left: 30px;
-  
+  margin-left: 30px; 
 }
 .out{
   display: flex;
